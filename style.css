@@ -1,0 +1,55 @@
+.img{
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+
+}
+.form{
+    position:absolute;
+    top: 0;
+    left: 500px;
+    margin-right: 600;
+    background-color: aqua;
+}
+.body{
+
+    position: relative;
+    justify-content: center;
+    display: flex;
+    margin: 40px;
+    align-items: center;
+    background-color: blueviolet;
+}
+container{
+    display: flex;
+    justify-content: center;
+ margin-right: auto;
+  width: 400px; 
+ padding-left: 5%; 
+ background-color: blueviolet;
+    
+}
+table{
+    width: 80px;
+    border-collapse: collapse;
+    background-color: chartreuse;
+}
+button{
+ position: relative;
+ top: auto;
+ background-color:beige;
+ padding: 5%;
+ font-weight: 300px;
+ font-size: large;
+ border-radius: 25px;   
+}
+
+
+
+
+
+
+
